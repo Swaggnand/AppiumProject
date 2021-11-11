@@ -1,0 +1,9 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÙÊèùÿÿÿÿ8Œ†Ü¡Ð/
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ºþ°‹8¾ÙžÐ/
+[
+java:S1128">Remove this unused import 'io.appium.java_client.TouchAction'.( èæ¤8žÝã¤Ð/
+W
+java:S1128":Remove this unused import 'org.openqa.selenium.WebDriver'.(ñšÿÀ8Å¡’¨Ð/
+†
+java:S1192"iDefine a constant instead of duplicating this literal "//android.widget.TextView[@text='Views']" 4 times.(¢ä€˜8¨£–¥Ð/

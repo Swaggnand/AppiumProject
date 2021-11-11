@@ -1,0 +1,14 @@
+
+Q
+java:S1128"/Remove this unused import 'java.time.Duration'.(ëá¯‰üÿÿÿÿ8íäó¤Ğ/
+f
+java:S1128"IRemove this unused import 'io.appium.java_client.touch.LongPressOptions'.(“ı€î8íäó¤Ğ/
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(€û¨8êÂŒ Ğ/
+Q
+java:S3740."/Provide the parametrized type for this generic.(–œÔ…úÿÿÿÿ8Óİˆ¢Ğ/
+H
+java:S1452"&Remove usage of generic wildcard type.(Ş‰ú­úÿÿÿÿ8êÂŒ Ğ/
+v
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(•ÄºÍ8êÂŒ Ğ/
+H
+java:S1452"&Remove usage of generic wildcard type.(®ÃÃäıÿÿÿÿ8—«º¡Ğ/
